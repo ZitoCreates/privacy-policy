@@ -173,6 +173,13 @@ button:hover {
   h2 {
     font-size: 1.4em;
   }
+  
+.responsive-img {
+  max-width: 100%;   /* scales down to fit screen */
+  height: auto;      /* keeps aspect ratio */
+  display: block;
+  margin: 10px auto; /* centers image */
+}
 
   .screenshots {
     flex-direction: column;
