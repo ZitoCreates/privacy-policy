@@ -19,6 +19,12 @@ nav {
   box-shadow: 0 2px 6px rgba(0,0,0,0.15);
 }
 
+.nav-icon {
+  width: 40px;   /* adjust size */
+  height: auto;
+  vertical-align: middle;
+}
+
 nav a {
   color: #ecf0f1;
   text-decoration: none;
